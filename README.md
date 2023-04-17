@@ -1,2 +1,2 @@
-# responsive-QR-Code
-A responsive qr code using css flexbox
+# responsive-QR-Code-Component
+A responsive qr code component using css flexbox
