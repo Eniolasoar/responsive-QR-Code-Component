@@ -21,7 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](/image2.png)
 
 
-
+###links
+-https://responsiveqrcodecomponent.netlify.app/
 
 ### Built with
 
